@@ -9,7 +9,7 @@
     - role: buluma.epel
     - role: buluma.python_pip
     - role: buluma.buildtools
-    - role: robertdebock.openssl
+    - role: buluma.openssl
       openssl_items:
         - name: apache-httpd
           common_name: "{{ ansible_fqdn }}"
