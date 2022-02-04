@@ -1,11 +1,11 @@
 ---
 roles:
-  - name: robertdebock.bootstrap
-  - name: robertdebock.buildtools
-  - name: robertdebock.epel
+  - name: buluma.bootstrap
+  - name: buluma.buildtools
+  - name: buluma.epel
   - name: robertdebock.httpd
-  - name: robertdebock.openssl
-  - name: robertdebock.python_pip
+  - name: buluma.openssl
+  - name: buluma.python_pip
   - name: robertdebock.scl
 collections:
   - name: ansible.posix
