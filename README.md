@@ -4,7 +4,7 @@ Install and configure php on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-php/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-php/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-php/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-php)|[![quality](https://img.shields.io/ansible/quality/54977)](https://galaxy.ansible.com/buluma/php)|[![downloads](https://img.shields.io/ansible/role/d/54977)](https://galaxy.ansible.com/buluma/php)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-php.svg)](https://github.com/buluma/ansible-role-php/releases/)|
+|[![github](https://github.com/buluma/ansible-role-php/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-php/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-php/badges/master/pipeline.svg)](https://gitlab.com/buluma/ansible-role-php/-/commits/master)|[![quality](https://img.shields.io/ansible/quality/54977)](https://galaxy.ansible.com/buluma/php)|[![downloads](https://img.shields.io/ansible/role/d/54977)](https://galaxy.ansible.com/buluma/php)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-php.svg)](https://github.com/buluma/ansible-role-php/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
