@@ -13,4 +13,4 @@
       openssl_items:
         - name: apache-httpd
           common_name: "{{ ansible_fqdn }}"
-    - role: robertdebock.httpd
+    - role: buluma.httpd

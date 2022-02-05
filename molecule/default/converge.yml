@@ -5,5 +5,5 @@
   gather_facts: yes
 
   roles:
-    - role: robertdebock.httpd
+    - role: buluma.httpd
     - role: ansible-role-php
