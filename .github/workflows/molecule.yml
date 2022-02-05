@@ -7,7 +7,9 @@ name: Ansible Molecule
 
 on:
   push:
-    tags_ignore:
+    branches:
+      - '**'
+    tags-ignore:
       - '*'
   pull_request:
   schedule:
@@ -18,7 +20,7 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4.0
         with:
           path: "${{ github.repository }}"
       - name: molecule
@@ -35,25 +37,25 @@ jobs:
         config:
           - image: "enterpriselinux"
             tag: "latest"
-          - image: "debian"
+          - image: "debian-systemd"
             tag: "latest"
-          - image: "debian"
+          - image: "debian-systemd"
             tag: "bookworm"
-          - image: "fedora"
+          - image: "fedora-systemd"
             tag: "34"
-          - image: "fedora"
+          - image: "fedora-systemd"
             tag: "latest"
-          - image: "fedora"
+          - image: "fedora-systemd"
             tag: "rawhide"
           - image: "opensuse"
             tag: "latest"
-          - image: "ubuntu"
+          - image: "docker-ubuntu-systemd"
             tag: "latest"
-          - image: "ubuntu"
+          - image: "docker-ubuntu-systemd"
             tag: "bionic"
     steps:
       - name: checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.4.0
         with:
           path: "${{ github.repository }}"
       - name: disable apparmor for mysql
