@@ -6,7 +6,7 @@ roles:
   - name: buluma.httpd
   - name: buluma.openssl
   - name: buluma.python_pip
-  - name: robertdebock.scl
+  - name: buluma.scl
 collections:
   - name: ansible.posix
   - name: community.crypto
