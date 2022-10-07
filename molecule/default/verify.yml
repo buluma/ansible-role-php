@@ -5,11 +5,11 @@
   gather_facts: no
 
   tasks:
-    - name: place php_info
+    - name: Place php_info
       ansible.builtin.copy:
         content: "<?php phpinfo(); ?>"
         dest: php_info.php
 
-    - name: run php php_info.php
+    - name: Run php php_info.php
       ansible.builtin.command:
         cmd: php php_info.php
