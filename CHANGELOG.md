@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.9...HEAD)
+
+**Closed issues:**
+
+- add to tracker [\#14](https://github.com/buluma/ansible-role-php/issues/14)
+
 ## [4.6.9](https://github.com/buluma/ansible-role-php/tree/4.6.9) (2022-05-13)
 
 [Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.8...4.6.9)
