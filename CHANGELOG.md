@@ -1,5 +1,19 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.11...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#22](https://github.com/buluma/ansible-role-php/issues/22)
+- Update action [\#21](https://github.com/buluma/ansible-role-php/issues/21)
+- rebuild action [\#20](https://github.com/buluma/ansible-role-php/issues/20)
+
+## [4.6.11](https://github.com/buluma/ansible-role-php/tree/4.6.11) (2023-12-24)
+
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.10...4.6.11)
+
 ## [4.6.10](https://github.com/buluma/ansible-role-php/tree/4.6.10) (2022-10-07)
 
 [Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.9...4.6.10)
