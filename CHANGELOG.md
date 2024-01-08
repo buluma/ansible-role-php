@@ -1,14 +1,18 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+## [4.7.0](https://github.com/buluma/ansible-role-php/tree/4.7.0) (2024-01-02)
 
-[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.11...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.11...4.7.0)
 
 **Closed issues:**
 
 - Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#22](https://github.com/buluma/ansible-role-php/issues/22)
 - Update action [\#21](https://github.com/buluma/ansible-role-php/issues/21)
 - rebuild action [\#20](https://github.com/buluma/ansible-role-php/issues/20)
+
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#24](https://github.com/buluma/ansible-role-php/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [4.6.11](https://github.com/buluma/ansible-role-php/tree/4.6.11) (2023-12-24)
 
