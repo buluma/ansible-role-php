@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.7.0...HEAD)
+
+**Merged pull requests:**
+
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#29](https://github.com/buluma/ansible-role-php/pull/29) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [4.7.0](https://github.com/buluma/ansible-role-php/tree/4.7.0) (2024-01-02)
 
 [Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.11...4.7.0)
