@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+## [4.8.0](https://github.com/buluma/ansible-role-php/tree/4.8.0) (2024-01-20)
 
-[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.7.0...HEAD)
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.7.0...4.8.0)
 
 **Merged pull requests:**
 
