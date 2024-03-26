@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump dependabot/fetch-metadata from 1 to 2 [\#34](https://github.com/buluma/ansible-role-php/pull/34) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#33](https://github.com/buluma/ansible-role-php/pull/33) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#31](https://github.com/buluma/ansible-role-php/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#30](https://github.com/buluma/ansible-role-php/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
