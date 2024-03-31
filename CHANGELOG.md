@@ -80,6 +80,7 @@
 - Testing [\#9](https://github.com/buluma/ansible-role-php/pull/9) ([buluma](https://github.com/buluma))
 - Testing [\#8](https://github.com/buluma/ansible-role-php/pull/8) ([buluma](https://github.com/buluma))
 - Update Badges [\#6](https://github.com/buluma/ansible-role-php/pull/6) ([buluma](https://github.com/buluma))
+- Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#2](https://github.com/buluma/ansible-role-php/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [4.6.5](https://github.com/buluma/ansible-role-php/tree/4.6.5) (2022-02-04)
 
@@ -95,7 +96,6 @@
 
 **Merged pull requests:**
 
-- Bump alstr/todo-to-issue-action from 2.3 to 4.5.4 [\#2](https://github.com/buluma/ansible-role-php/pull/2) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/galaxy-action from 1.0.1 to 1.1.0 [\#1](https://github.com/buluma/ansible-role-php/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 
