@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump ansible/ansible-lint from 24.9.0 to 24.9.2 [\#36](https://github.com/buluma/ansible-role-php/pull/36) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ansible/ansible-lint from 24.7.0 to 24.9.0 [\#35](https://github.com/buluma/ansible-role-php/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [24.3.31](https://github.com/buluma/ansible-role-php/tree/24.3.31) (2024-03-31)
