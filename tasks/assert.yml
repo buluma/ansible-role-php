@@ -1,5 +1,4 @@
 ---
-
 - name: assert | Test if php_ini_location is set correctly
   ansible.builtin.assert:
     that:
@@ -71,8 +70,7 @@
   ansible.builtin.assert:
     that:
       - php_output_buffering is defined
-      - php_output_buffering in [ "Off", "On" ] or
-        php_output_buffering is number
+      - php_output_buffering in [ "Off", "On" ] or php_output_buffering is number
     quiet: true
 
 - name: assert | Test if php_register_argc_argv is set correctly
