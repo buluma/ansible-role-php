@@ -1,9 +1,9 @@
 ---
-  - name: Converge
-    hosts: all
-    become: true
-    gather_facts: true
+- name: Converge
+  hosts: all
+  become: true
+  gather_facts: true
 
-    roles:
-      - role: buluma.httpd
-      - role: buluma.php
+  roles:
+  - role: buluma.httpd
+  - role: buluma.php
