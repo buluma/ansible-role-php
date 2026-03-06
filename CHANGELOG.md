@@ -78,6 +78,7 @@
 **Merged pull requests:**
 
 - version bump/focal [\#11](https://github.com/buluma/ansible-role-php/pull/11) ([buluma](https://github.com/buluma))
+- Testing [\#8](https://github.com/buluma/ansible-role-php/pull/8) ([buluma](https://github.com/buluma))
 
 ## [4.6.6](https://github.com/buluma/ansible-role-php/tree/4.6.6) (2022-02-05)
 
@@ -92,7 +93,6 @@
 
 - Update README.md [\#10](https://github.com/buluma/ansible-role-php/pull/10) ([buluma](https://github.com/buluma))
 - Testing [\#9](https://github.com/buluma/ansible-role-php/pull/9) ([buluma](https://github.com/buluma))
-- Testing [\#8](https://github.com/buluma/ansible-role-php/pull/8) ([buluma](https://github.com/buluma))
 - Update Badges [\#6](https://github.com/buluma/ansible-role-php/pull/6) ([buluma](https://github.com/buluma))
 
 ## [4.6.5](https://github.com/buluma/ansible-role-php/tree/4.6.5) (2022-02-04)
