@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-php/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-php/compare/26.6.0...HEAD)
+
+**Closed issues:**
+
+- This command returns '/etc/php/7.4/cli/php.ini', instead of apache. [\#4](https://github.com/buluma/ansible-role-php/issues/4)
+
 ## [26.6.0](https://github.com/buluma/ansible-role-php/tree/26.6.0) (2026-06-14)
 
 [Full Changelog](https://github.com/buluma/ansible-role-php/compare/24.3.31...26.6.0)
