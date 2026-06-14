@@ -7,6 +7,6 @@ roles:
   - name: buluma.openssl
   - name: buluma.python_pip
   - name: buluma.scl
-collections:
+collections: []
   - name: ansible.posix
   - name: community.crypto
