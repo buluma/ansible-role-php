@@ -12,5 +12,5 @@
 
     - name: Run php php_info.php
       ansible.builtin.command:
-      changed_when: false
         cmd: php php_info.php
+      changed_when: false
