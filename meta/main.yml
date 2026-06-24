@@ -19,6 +19,9 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - all
+    - name: Alpine
+      versions:
+        - all
   galaxy_tags:
     - installer
     - package
