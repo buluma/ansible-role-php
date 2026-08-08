@@ -52,6 +52,10 @@
 - Update action [\#21](https://github.com/buluma/ansible-role-php/issues/21)
 - rebuild action [\#20](https://github.com/buluma/ansible-role-php/issues/20)
 
+**Merged pull requests:**
+
+- Bump actions/checkout from 3 to 4 [\#24](https://github.com/buluma/ansible-role-php/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [4.6.11](https://github.com/buluma/ansible-role-php/tree/4.6.11) (2023-12-24)
 
 [Full Changelog](https://github.com/buluma/ansible-role-php/compare/4.6.10...4.6.11)
@@ -83,6 +87,7 @@
 **Merged pull requests:**
 
 - version bump/focal [\#11](https://github.com/buluma/ansible-role-php/pull/11) ([buluma](https://github.com/buluma))
+- Update README.md [\#10](https://github.com/buluma/ansible-role-php/pull/10) ([buluma](https://github.com/buluma))
 
 ## [4.6.6](https://github.com/buluma/ansible-role-php/tree/4.6.6) (2022-02-05)
 
@@ -95,8 +100,6 @@
 
 **Merged pull requests:**
 
-- Bump actions/checkout from 3 to 4 [\#24](https://github.com/buluma/ansible-role-php/pull/24) ([dependabot[bot]](https://github.com/apps/dependabot))
-- Update README.md [\#10](https://github.com/buluma/ansible-role-php/pull/10) ([buluma](https://github.com/buluma))
 - Testing [\#9](https://github.com/buluma/ansible-role-php/pull/9) ([buluma](https://github.com/buluma))
 - Testing [\#8](https://github.com/buluma/ansible-role-php/pull/8) ([buluma](https://github.com/buluma))
 - Update Badges [\#6](https://github.com/buluma/ansible-role-php/pull/6) ([buluma](https://github.com/buluma))
